@@ -1,0 +1,153 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-family:'Merriweather', serif;
+    color: #40514E;
+
+}
+.description{
+    font-weight: normal;
+    margin-top: 0px;
+    
+}
+
+
+h2, h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+    font-size: 1.87rem;
+    color: #66BFBF;
+}
+
+h3{
+    color: #11999E;
+}
+
+
+.heading {
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+    
+}
+
+.top-container {
+    background-color:#EAF6F6;
+    padding: 60px;
+    position: relative;
+    
+}
+
+.middle-container {
+    margin: 100px;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding-top: 30px;
+    
+    
+}
+
+.top-cloud {
+    position:absolute;
+    top:20px;
+    right:20%;
+}
+
+.bottom-cloud {
+    position:absolute; 
+    left: 20%; 
+
+}
+
+.footer-link {
+    color: #11999E;
+    padding: 10px;
+    text-decoration-line: none;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+
+.footer-link:hover {
+    color: #EAF6F6;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;   
+}
+.skill-image1 {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.skill-image2 {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.profile-description {
+    width: 30%;
+    margin: auto;
+
+}
+
+hr {
+    width: 5%;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 4px;
+    color: #EAF6F6;
+    margin: 100px auto 100px auto;
+    
+}
+
+.copy-right {
+    color: #EAF6F6;
+    margin-bottom: 0px;
+    padding: 20px;
+    font-size: 0.75rem;
+}
+.btn {
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    height: 40px;
+    line-height: 40px;
+    color: #EAF6F6;
+    font-family: font-family: 'Montserrat', sans-serif;
+    width: 200px;
+    font-size: 15px;
+    font-weight: 100;
+    padding-top: 0px;
+    background-color: #66BFBF;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+
+ .btn {
+     margin: 40px auto 40px auto;
+ }
+
+
+ .profile {
+     padding: 20px;
+ }
+
+ p{
+    line-height: 2;
+ }
+
+ .contact-message {
+     width: 40%;
+     margin: auto;
+ }
